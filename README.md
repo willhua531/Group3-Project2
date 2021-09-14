@@ -4,5 +4,5 @@ Models used were Random Forest Classifier, Naive Bayes GaussianNB Classifier and
 
 Tested individual signals such as Ethereum, Express and Tesla Inc.
 
-# Group3-Project2
+# Algorithmic Trading Signals
 ### For project description, please see Algorithmic Trading Based on Trading Signals.pdf
